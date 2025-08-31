@@ -112,6 +112,8 @@ function M.setup()
 		["@string"] = { fg = c.string },
 		["@string.escape"] = { fg = c.string },
 		["@string.special"] = { fg = c.string },
+		["@string.regex"] = { fg = c.string },
+		["@string.regexp"] = { fg = c.string },
 		["@character"] = { fg = c.string },
 		["@boolean"] = { fg = c.constant },
 		["@number"] = { fg = c.number },

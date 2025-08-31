@@ -6,7 +6,7 @@ return {
 	fg_sub = "#66D9EF",
 	fg_comment = "#BB77FF",
 
-	string = "#CBC3FF",
+	string = "#009F3C",
 	string_html = "#66D9EF",
 	number = "#33CC99",
 	constant = "#4499FF",
